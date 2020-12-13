@@ -23,16 +23,7 @@
   	- Perform addition on the arithmetic performed. 
  	- store result
  	- call output
-  Hex:
-  
- 	- load register with data from isNegative into hex
- 	- create a 32 bit number
- 	- allocate register
- 	- convert into nibbles
-  	- allocate proper reigsters
-  	- process each nibble
- 	- store into register
- 	- call output
+ 
   Output:
   Load each ascii prompt that says what is being outputted
  	-call each register containing the result
